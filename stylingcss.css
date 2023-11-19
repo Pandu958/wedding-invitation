@@ -1,0 +1,12 @@
+.heading1{
+    font-size: 15mm;
+    font-style: italic;
+    color: purple;
+    text-align: center;
+}
+
+.background_image{
+    background-image: url("https://th.bing.com/th/id/R.eb16b1ce32d9b6144f23cc16d1f791b4?rik=bcJXwizy61mxJw&riu=http%3a%2f%2fassets.marthastewartweddings.com%2fstyles%2fwmax-520-highdpi%2fd44%2fchristen-tim-wedding-arch-21428-6143924-0816%2fchristen-tim-wedding-arch-21428-6143924-0816_vert.jpg%3fitok%3dKHwJXDyg&ehk=CVDDjoap3XzDdYI7AER0hPknm8RGrB5wvlgW3lCZcVA%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    height: 100vh;
+}
